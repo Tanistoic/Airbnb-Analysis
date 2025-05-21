@@ -47,3 +47,4 @@ How does the number of bedrooms influence pricing and availability?
 With this information, homeowners can optimize their listings to attract guests while maximizing revenue.
 
 ## Preview
+![Dashboard](https://github.com/Tanistoic/Airbnb-Analysis/blob/main/Airbnb%20Analysis%20Dashboard.png)
